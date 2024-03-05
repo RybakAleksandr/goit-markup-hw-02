@@ -90,13 +90,13 @@ color: #fff;
 
 .business-buy-btn {
     font-family: 'Roboto', sans-serif;
-
-background: #4d5ae5;
+    cursor: pointer;
+background-color: #4d5ae5;
 }
 
 .business-buy-btn:hover,
 .business-buy-btn:focus {
-    background: #404bbf;
+    background-color: #404bbf;
 }
 
 
