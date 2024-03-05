@@ -8,6 +8,8 @@ a {
 }
 ul, ol {
     list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .visually-hidden {
@@ -22,7 +24,20 @@ ul, ol {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+
 /*-------------------------------------------------Header----------------------------------------------------*/
+
+.container {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.header-container {
+    display: flex;
+}
+
 .logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
