@@ -30,6 +30,7 @@ ul, ol {
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 
 }
 .logo-part {
@@ -81,6 +82,8 @@ color: #fff;
 }
 
 .business-buy-btn {
+    font-family: 'Roboto', sans-serif;
+
 background: #4d5ae5;
 }
 
@@ -195,6 +198,7 @@ color: #434455;
 /*-----------------------------------FOOTER------------------------------------------------------*/
 
 .footer {
+    font-family:  "Raleway", sans-serif;;
     background: #2e2f42;
 }
 
