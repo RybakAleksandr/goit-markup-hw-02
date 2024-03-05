@@ -91,12 +91,12 @@ color: #fff;
 .business-buy-btn {
     font-family: 'Roboto', sans-serif;
     cursor: pointer;
-background-color: #4d5ae5;
+background: #4d5ae5;
 }
 
 .business-buy-btn:hover,
 .business-buy-btn:focus {
-    background-color: #404bbf;
+    background: #404bbf;
 }
 
 
@@ -184,6 +184,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 
 .portfolio-subtitle {
